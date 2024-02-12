@@ -1,8 +1,8 @@
-# Bienvenue chez Azure Informatique
+# Bienvenue chez Azure Informatique :raised_hand:
 
 Azure Informatique est une entreprise spécialisée dans la gestion de parcs informatiques. Notre mission est de simplifier la gestion de l'infrastructure informatique de nos clients, en offrant des solutions efficaces et fiables pour répondre à leurs besoins.
 
-## À propos de nous :blush:
+## À propos de nous :pushpin:
 
 Chez Azure Informatique, nous nous efforçons d'offrir des services de gestion de parcs informatiques de première classe. Notre équipe d'experts possède une vaste expérience dans le domaine de l'informatique d'entreprise, ce qui nous permet de fournir des solutions sur mesure adaptées à chaque client.
 

@@ -18,12 +18,12 @@ Chez Azure Informatique, nous nous efforçons d'offrir des services de gestion d
    - Mise en place d'infrastructures virtuelles
    - Montage et installation d'ordinateurs sur-mesure
    - Installation et configuration Switch, Modem, Routeur
-   - Câblage de baie serveur
+   - Câblage de baie de brassage/serveur
    - Installation des programmes métiers
    - Mise en place d’un système de sauvegarde
    - Installation de caméra de surveillance et connexion à distance
    - Entretien du matériel
-   - Mise en conformité d'un parc informatique
+   - Mise en conformité d'un parc informatique existant
 
 ### 2. Sécurité informatique :lock:
    - Protection des données et des infrastructures contre les menaces en constante évolution.

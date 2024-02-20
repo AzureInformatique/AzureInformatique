@@ -9,11 +9,24 @@ Chez Azure Informatique, nous nous efforçons d'offrir des services de gestion d
 ## Nos services :point_down:
 
 ### 1. Gestion de parc informatique :eyes:
-   - Surveillez et maintenez vos systèmes informatiques pour une performance optimale.
-   - Mises à jour logicielles et matérielles régulières.
+   - Installation de serveur de production
+   - Installation de domaine AD Windows Server
+   - Gestion de fichiers et création des partages
+   - Administration serveur
+   - Mise en place de services d’impression
+   - Création des politiques de sécurité et de personnalisation des postes
+   - Mise en place d'infrastructures virtuelles
+   - Montage et installation d'ordinateurs sur-mesure
+   - Installation et configuration Switch, Modem, Routeur
+   - Câblage de baie serveur
+   - Installation des programmes métiers
+   - Mise en place d’un système de sauvegarde
+   - Installation de caméra de surveillance et connexion à distance
+   - Entretien du matériel
+   - Mise en conformité d'un parc informatique
 
 ### 2. Sécurité informatique :lock:
-   - Protégez vos données et votre infrastructure contre les menaces en constante évolution.
+   - Protection des données et des infrastructures contre les menaces en constante évolution.
    - Gestion des pare-feu, des antivirus et des mesures de prévention des intrusions.
 
 ### 3. Support technique :wrench:

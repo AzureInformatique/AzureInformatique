@@ -1,6 +1,7 @@
 # Bienvenue chez Azure Informatique :raised_hand:
 
-Azure Informatique est une entreprise spécialisée dans la gestion de parcs informatiques. Notre mission est de simplifier la gestion de l'infrastructure informatique de nos clients, en offrant des solutions efficaces et fiables pour répondre à leurs besoins.
+Azure Informatique est une entreprise spécialisée dans la gestion de parcs informatiques. Nous avons pour objectif de simplifier la gestion de l'infrastructure informatique de nos clients en leur offrant des solutions à la fois fiables et efficaces, parfaitement adaptées à leurs besoins. 
+Forts de notre expertise approfondie de Nextcloud, nous proposons des solutions sur mesure comme Azure NXT Maxscale, qui combinent haute performance, sécurité renforcée et maîtrise des coûts, tout en garantissant une infrastructure évolutive et résiliente pour accompagner la croissance de nos clients.
 
 ## À propos de nous :pushpin:
 
